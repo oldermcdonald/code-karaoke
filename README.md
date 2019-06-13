@@ -1,5 +1,5 @@
-# code-song
+# 🎤 Code Karaoke! 🎤
 
-🎤 Interpretting song lyrics as code. 🎤
+🎶 Interpretting song lyrics as code 🎶
+
 ### 
-🎤🎶
